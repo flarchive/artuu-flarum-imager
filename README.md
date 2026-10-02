@@ -1,15 +1,20 @@
 # artuu/flarum-imager (Archive)
 
-This repository is a permanent, read-only archive of released versions of `artuu/flarum-imager`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `artuu/flarum-imager`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `0.1.0`
-- **Flarum Compatibility:** `>=0.1.0-beta.13 <0.1.0-beta.14`
-- **Direct Download (.zip):** [Download 0.1.0 (.zip)](https://github.com/flarchive/artuu-flarum-imager/archive/refs/tags/archive/v0.1.0.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/artuu-flarum-imager/tags)
+- **Latest Archived Release:** `0.1.0`
+- **Target Flarum Compatibility:** `>=0.1.0-beta.13 <0.1.0-beta.14`
+- **Declared License:** `MIT`
+- **Upstream Repository:** https://github.com/Artuuuu/flarum-imager.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/artuu-flarum-imager/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
